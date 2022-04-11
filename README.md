@@ -240,17 +240,9 @@ Figure 4.1
 
 ## RCD Tool with Risk Mitigation Response (Qualitative Risks) 
 
-|Risk Category |Risk Division |Definition |Risk Mitigation Strategy |
-| - | - | - | - |
-|Operational |Health: Pandemic |Infect Rarita’s players and management staff |Reduce: Hire 5 substitutes to mitigate the risk of a shortage of players |
-|Operational |Human resources: labour |Players leave for another team |Remove: Establish lock-in contracts for all players |
-|Operational |Human resources: labour |Injured players |Reduce: Employ physiotherapists to treat injuries and substitute players |
-|Operational |Security: terrorism |Terrorist attack in Rarita football stadium |Reduce: Hire security staff on grounds during matches and training |
-|Strategic |Competition: outperformed |Other teams outperform Rarita out of the top ten |Retain: accept risk due to the intrinsic nature of the industry and appeal of the sport |
-|Strategic |Competition: high-profile player  |Rarita competes against a team with a superstar player who drastically reduces their chance of winning |Exploit: use as a marketing opportunity to raise the stakes and generate a larger fan following |
-|Strategic |Economic |Unforeseen recession reduces tourism demand |Reduce: implement expansionary monetary and fiscal policy to recover the economy |
-|Financial |Liquidity  |Liquidity risk if cash flows become negative |Reduce: raise capital from investment banks and other non – governmental funding  |
-Table 6.1 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/103352144/162725209-c550a17e-ea84-4cbb-a20a-7620ba2a7eba.png" > 
+</p> 
 
 ## Risk Map for Qualitative Risks: 
 
